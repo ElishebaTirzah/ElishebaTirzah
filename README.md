@@ -34,6 +34,9 @@ I enjoy working on:
 • Edge AI deployment on microcontrollers
 
 • Robotics and intelligent sensing
+
+<br>
+
 <br>
 
 
