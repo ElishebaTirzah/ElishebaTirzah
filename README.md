@@ -47,7 +47,8 @@ Embedded Systems • IoT • Robotics • Firmware Engineering • Edge AI • C
 * 🌍  I'm based in Chennai, Tamil Nadu
 * 🖥️  See my portfolio at [Linkdln](http://https://www.linkedin.com/in/elisheba-tirzah-778981228/)
 * ✉️  You can contact me at [elishebatirzah@gmail.com](mailto:elishebatirzah@gmail.com)
-* 🧠  I'm currently learning FreeRTOS • TensorFlow Lite Micro • Neural Network basics
+* 🌱  I'm currently learning FreeRTOS • TensorFlow Lite Micro • Neural Network basics
+* Resume: - **Resume:** [View Resume]([https://drive.google.com/file/d/1nIFTobnZZSho9XR4z3ArTBqzUsGMDGo1/view?usp=sharing])
 
 <br>
 
