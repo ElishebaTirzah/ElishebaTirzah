@@ -9,6 +9,7 @@ I am an embedded systems engineer passionate about building real-world systems t
 My work spans microcontrollers (STM32 L/G series and more, ESP32, Rpi), wireless communication, low-power design, and embedded AI (TinyML using TensorFlow Lite Micro / STM32Cube.AI). I enjoy creating end-to-end systems—from firmware and hardware integration to cloud connectivity and real-time control loops.
 <br>
 
+
 Some of the projects I’ve worked on include:
 
 • LiDAR-based navigation system for visually impaired users (ROS1 Noetic)
@@ -22,6 +23,7 @@ Some of the projects I’ve worked on include:
 • FPGA-based electronic voting machine
 
 <br>
+
 
 I enjoy working on:
 
