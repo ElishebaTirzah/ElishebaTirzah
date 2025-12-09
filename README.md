@@ -37,8 +37,6 @@ I enjoy working on:
 
 <br>
 
-<br>
-
 
 Currently seeking opportunities in:
 
