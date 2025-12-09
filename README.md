@@ -25,7 +25,7 @@ Some of the projects I’ve worked on include:
 <br>
 
 
-I enjoy working on:
+I enjoy and would enjoy working on:
 
 • Low-level firmware (C/C++, HAL/LL, FreeRTOS)
 
