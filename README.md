@@ -7,6 +7,7 @@ Embedded Engineer and Robotics Enthusiast
 I am an embedded systems engineer passionate about building real-world systems that combine sensing, control, communication, and intelligent decision-making.
 
 My work spans microcontrollers (STM32 L/G series and more, ESP32, Rpi), wireless communication, low-power design, and embedded AI (TinyML using TensorFlow Lite Micro / STM32Cube.AI). I enjoy creating end-to-end systems—from firmware and hardware integration to cloud connectivity and real-time control loops.
+<br>
 
 Some of the projects I’ve worked on include:
 
@@ -20,6 +21,7 @@ Some of the projects I’ve worked on include:
 
 • FPGA-based electronic voting machine
 
+<br>
 
 I enjoy working on:
 
@@ -30,16 +32,19 @@ I enjoy working on:
 • Edge AI deployment on microcontrollers
 
 • Robotics and intelligent sensing
+<br>
 
 
 Currently seeking opportunities in:
 
 Embedded Systems • IoT • Robotics • Firmware Engineering • Edge AI • Control Systems
+<br>
 
 * 🌍  I'm based in Chennai, Tamil Nadu
 * 🖥️  See my portfolio at [Linkdln](http://https://www.linkedin.com/in/elisheba-tirzah-778981228/)
 * ✉️  You can contact me at [elishebatirzah@gmail.com](mailto:elishebatirzah@gmail.com)
 * 🧠  I'm currently learning FreeRTOS, and basics of Neural Networking
+<br>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
